@@ -1,2 +1,2 @@
 # git-conflict-challenge
-Je modifie pour faire apparaître un changement ici
+J'apprends à gerer les conflits
